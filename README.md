@@ -1,12 +1,12 @@
 
-# SPF IPv6 Router Visualizer
+# OSPFv3 IPv6 Router Visualizer
 
-A Java Swing GUI application that visualizes the **Shortest Path First (SPF) Dijkstra algorithm** in action across an IPv6 network topology. This interactive simulator demonstrates how routers discover neighbors, exchange routing information, and compute optimal paths.
+A Java Swing GUI application that visualizes the **OSPFv3 protocol using Dijkstra algorithm** in action across an IPv6 network topology. This interactive simulator demonstrates how routers discover neighbors, exchange routing information, and compute optimal paths.
 
 <img width="761" height="574" alt="image" src="https://github.com/user-attachments/assets/18bdfa3b-edb4-4032-ad6d-951ef8c74cc0" />
 ## Overview
 
-The SPF IPv6 Router Visualizer is an educational tool that brings core OSPF routing concepts to life through real-time visualization. Watch as three routers initialize, exchange network information, and the Dijkstra algorithm calculates the shortest paths across the network.
+The OSPFv3 IPv6 Router Visualizer is an educational tool that brings core OSPF routing concepts to life through real-time visualization. Watch as three routers initialize, exchange network information, and the Dijkstra algorithm calculates the shortest paths across the network.
 
 ## Features
 
